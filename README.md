@@ -1,2 +1,2 @@
 # zeduniversity
- Zed Univerisity is designed for Universties & Colleges
+ Zed Univerisity is a wordpress theme designed for Universties & Colleges.
